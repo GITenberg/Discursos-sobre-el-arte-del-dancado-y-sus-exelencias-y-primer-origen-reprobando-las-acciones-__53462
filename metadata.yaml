@@ -1,5 +1,8 @@
 _repo: Discursos-sobre-el-arte-del-dancado-y-sus-exelencias-y-primer-origen-reprobando-las-acciones-__53462
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53462-h/images/cover.jpg
 creator:
   author:
     agent_name: Esquivel Navarro, Juan de, active 17th century
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47387'
     url: http://www.gutenberg.org/2009/agents/47387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53462#Discursos-sobre-el-arte-del-dancado-y-sus-exelencias-y-primer-origen-reprobando-las-acciones-_
 gutenberg_issued: '2016-11-06'
 gutenberg_type: Text
 identifiers:
